@@ -3,65 +3,30 @@
   "pageLayout": "two-column",
   "basics": {
     "name": "Alix Chaysinh",
-    "label": "Senior Developer",
+    "label": "Developer",
     "image": "/avatar.png",
     "email": "alix.chaysinh@gmail.com",
-    "url": "https://www.gcxstudio.cn",
+    "url": "https://sinhix.github.io",
     "summary": "I'm a simple developer. Specialized in backend, but I can also do a bit of frontend, devops and infrastructure. Interested in technologies but also in ecology, animal protection and social impact projects.",
     "theme": "green",
     "location": {
       "address": "Paris",
       "city": "Paris",
-      "countryCode": "CN",
+      "countryCode": "FR",
       "region": "France"
     },
     "profiles": [
       {
-        "network": "Bilibili",
-        "icon": "ri:bilibili-line",
-        "username": "MiraHikari",
-        "url": "https://space.bilibili.com/480025691"
-      },
-      {
-        "network": "QQ",
-        "icon": "ri:qq-fill",
-        "username": "Gong_cx",
-        "url": "https://admin.qidian.qq.com/static_proxy/b2b-qq/wpa-link/index.html#/person?uin=3175992523"
-      },
-      {
         "network": "GitHub",
         "icon": "mdi:github",
-        "username": "MiraHikari",
-        "url": "https://github.com/MiraHikari"
-      }
-    ],
-    "beian": {
-      "mint": "赣ICP备2021005460号-1",
-      "police": "赣公网安备 36010302000349号"
-    }
-  },
-  "images": {
-    "intro": "Photography is the art of light, and images are the contours of memory.",
-    "list": [
-      {
-        "image": "https://i0.hdslb.com/bfs/article/6720a7355fd11b9666e2716cadf04e45480025691.jpg@90q_1e_1c.webp",
-        "alt": "Sunset in Nanchang",
-        "desc": "Shot on a sunny day in Nanchang. 2024.10.05"
+        "username": "sinhix",
+        "url": "https://github.com/sinhix"
       },
       {
-        "image": "https://i0.hdslb.com/bfs/article/82f680f56532d942f74d86801abf49ea480025691.jpg@90q_1e_1c.webp",
-        "alt": "My Cat",
-        "desc": "A Ragdoll cat who stayed for a year. She's a girl."
-      },
-      {
-        "image": "https://i0.hdslb.com/bfs/article/14e6ae3c368b0eddeeb2b5c338239486480025691.jpg@90q_1e_1c.webp",
-        "alt": "Emoji",
-        "desc": "True, dude"
-      },
-      {
-        "image": "https://i0.hdslb.com/bfs/article/fe1737e9d7b6c2b21eedaf60b6dc9f86480025691.jpg@90q_1e_1c.webp",
-        "alt": "Cat Kernel Crashed",
-        "desc": "Cat Kernel Crashed"
+        "network": "LinkedIn",
+        "icon": "mdi:linkedin",
+        "username": "alixchaysinh",
+        "url": "https://www.linkedin.com/in/alixchaysinh"
       }
     ]
   },
@@ -86,64 +51,374 @@
   "certificates": [],
   "work": [
     {
-      "name": "Sgguo Development Team",
-      "position": "Full-stack Developer",
-      "location_type": "Remote",
-      "location": "CN",
-      "url": "https://github.com/Sgguo-Development-Team",
-      "startDate": "2022-06-01",
-      "endDate": null,
-      "summary": "Developing high-availability full-stack projects.",
-      "highlights": ["Enhanced internal workflow efficiency by 30%."],
+      "name": "La Fourche",
+      "position": "Lead Backend Developer / Team Lead",
+      "location_type": "",
+      "location": "Paris, France",
+      "url": "https://lafourche.fr",
+      "startDate": "2021-02",
+      "endDate": "2025-03",
       "responsibilities": [
-        "Developed and maintained backend services using Node.js and Golang."
-      ],
-      "achievements": [
-        "Implemented a cloud drive and verification code system."
+        "Development in NodeJs and NestJs on APIs and workers",
+        "Work on microservices: order tunnel, recommendations, catalog, warehouse logistics shipping",
+        "Migration of the ecommerce platform from Shopify to Sylius",
+        "Integration of carrier and 3PL APIs",
+        "Development on the ecommerce platform: client, payment, delivery",
+        "Structuring of application layers and business libraries",
+        "Unit and functional testing",
+        "Code review and validation",
+        "Team management: goal setting, monthly and annual reviews",
+        "Development on back office in NextJs, React JS, and Ant Design"
       ],
       "skills": {
         "PHP": "simple-icons:php",
-        "Node": "ri:nodejs-line",
-        "Golang": "simple-icons:go",
-        "Next.js": "ri:nextjs-fill",
+        "Symfony": "simple-icons:symfony",
+        "Api Platform": "simple-icons:symfony",
+        "Sylius": "simple-icons:symfony",
+        "TypeScript": "simple-icons:typescript",
+        "NestJs": "simple-icons:nestjs",
+        "Postgres": "simple-icons:postgresql",
         "React": "mdi:react",
-        "SQL": "simple-icons:mysql",
-        "Git": "mdi:git",
-        "GitHub": "mdi:github",
-        "NestJS": "simple-icons:nestjs",
-        "Vue": "mdi:vuejs"
+        "NextJs": "ri:nextjs-line",
+        "AWS": "simple-icons:amazonaws",
+        "Kubernetes": "mdi:kubernetes",
+        "Terraform": "mdi:terraform",
+        "Temporal": "",
+        "Docker": "mdi:docker",
+        "Gitlab": "simple-icons:gitlab"
       }
     },
     {
-      "name": "Riddle Town Team",
-      "position": "Full-stack Developer",
-      "location_type": "Remote",
-      "location": "CN",
-      "url": "https://rth2.gcxstudio.cn",
-      "startDate": "2023-01-01",
-      "endDate": "2024-02-11",
-      "summary": "Led page design and account systems.",
-      "highlights": ["Completed 95% of project content."],
+      "name": "Coopérative Indigo",
+      "position": "Tech Manager / Lead Developer",
+      "location_type": "",
+      "location": "Paris, France",
+      "url": "https://www.cooperative-indigo.org",
+      "startDate": "2020-07",
+      "endDate": "2021-02",
       "responsibilities": [
-        "Developed complete pages.",
-        "Integrated user-facing elements with server-side logic."
+        "Development on a circular economy application",
+        "Backend API development with ApiPlatform: endpoints for nearby objects, performance optimization",
+        "Frontend in React Js and Ionic: React components",
+        "Team management"
       ],
-      "achievements": ["Ensured smooth project execution."],
       "skills": {
-        "HTML": "simple-icons:html5",
-        "CSS": "ri:css3-fill",
-        "JavaScript": "simple-icons:javascript",
-        "TypeScript": "simple-icons:typescript",
-        "Vite": "simple-icons:vite",
-        "Node": "ri:nodejs-line",
-        "Docker": "mdi:docker",
-        "WordPress": "ri:wordpress-fill",
-        "Astro": "simple-icons:astro",
-        "SQL": "simple-icons:mysql",
-        "Tailwind": "mdi:tailwind",
+        "PHP": "simple-icons:php",
+        "Symfony": "simple-icons:symfony",
+        "Api Platform": "simple-icons:symfony",
+        "Postgres": "simple-icons:postgresql",
         "React": "mdi:react",
-        "GitHub": "mdi:github",
-        "Git": "mdi:git"
+        "Ionic": "simple-icons:ionic",
+        "TypeScript": "simple-icons:typescript",
+        "AWS": "simple-icons:amazonaws",
+        "Kubernetes": "mdi:kubernetes",
+        "Docker": "mdi:docker"
+      }
+    },
+    {
+      "name": "Vendredi",
+      "position": "Full Stack Developer",
+      "location_type": "",
+      "location": "Paris, France",
+      "url": "https://vendredi.cc",
+      "startDate": "2019-10",
+      "endDate": "2020-06",
+      "responsibilities": [
+        "Development in Laravel for a skills sponsorship website",
+        "Backend in PHP Laravel",
+        "Frontend in JavaScript Vue.JS"
+      ],
+      "skills": {
+        "PHP": "simple-icons:php",
+        "Laravel": "simple-icons:laravel",
+        "Vue.js": "mdi:vuejs",
+        "Postgres": "simple-icons:postgresql",
+        "Heroku": "simple-icons:heroku"
+      }
+    },
+    {
+      "name": "La Fourche",
+      "position": "Full Stack Developer",
+      "location_type": "",
+      "location": "Paris, France",
+      "url": "https://lafourche.fr",
+      "startDate": "2019-06",
+      "endDate": "2019-09",
+      "responsibilities": [
+        "Development in Symfony 4 and 5: APIs, data import, unit and functional tests in PhpUnit",
+        "Shopify development with frontend in Liquid"
+      ],
+      "skills": {
+        "PHP": "simple-icons:php",
+        "Symfony": "simple-icons:symfony",
+        "PhpUnit": "simple-icons:php",
+        "Shopify": "simple-icons:shopify",
+        "AWS": "simple-icons:amazonaws",
+        "Jenkins": "simple-icons:jenkins"
+      }
+    },
+    {
+      "name": "Worldia",
+      "position": "Backend Developer",
+      "location_type": "",
+      "location": "Paris, France",
+      "url": "https://www.worldia.com",
+      "startDate": "2017-09",
+      "endDate": "2018-12",
+      "responsibilities": [
+        "Development in Symfony Sylius on the ecommerce site: payment, deployment of white-label versions",
+        "Back office in Sylius Twig",
+        "Unit and functional tests",
+        "End-to-end tests in Cypress",
+        "DevOps: CI/CD, deployments"
+      ],
+      "skills": {
+        "PHP": "simple-icons:php",
+        "Symfony": "simple-icons:symfony",
+        "Sylius": "simple-icons:symfony",
+        "Angular.js": "simple-icons:angularjs",
+        "Cypress": "simple-icons:cypress",
+        "Google Cloud": "simple-icons:googlecloud",
+        "GitLab": "simple-icons:gitlab",
+        "Docker": "mdi:docker",
+        "Twig": ""
+      }
+    },
+    {
+      "name": "Maisons du Monde",
+      "position": "Lead Developer",
+      "location_type": "",
+      "location": "Paris, France",
+      "url": "https://www.maisonsdumonde.com",
+      "startDate": "2015-08",
+      "endDate": "2017-04",
+      "responsibilities": [
+        "Development in Symfony 2: web services and APIs",
+        "Ecommerce site for web, tablet, and mobile: sales, flash sales",
+        "Unit and functional tests",
+        "Team management: technical design and refinements, technical validation"
+      ],
+      "skills": {
+        "PHP": "simple-icons:php",
+        "Symfony": "simple-icons:symfony",
+        "Ruby": "simple-icons:ruby",
+        "Chef": "simple-icons:chef",
+        "Pentaho": "",
+        "Jira": "simple-icons:jira",
+        "Bitbucket": "simple-icons:bitbucket",
+        "Debian": "simple-icons:debian"
+      }
+    },
+    {
+      "name": "Le Monde",
+      "position": "Web Developer",
+      "location_type": "",
+      "location": "Paris, France",
+      "url": "https://www.lemonde.fr",
+      "startDate": "2014-09",
+      "endDate": "2014-10",
+      "responsibilities": [
+        "PHP development on lemonde.fr backend and frontend: sports section",
+        "Development of an ETL in PHP for importing legislative election results",
+        "Unit and functional tests",
+        "Import script"
+      ],
+      "skills": {
+        "PHP": "simple-icons:php",
+        "CodeIgniter": "simple-icons:codeigniter",
+        "MySQL": "simple-icons:mysql",
+        "Debian": "simple-icons:debian"
+      }
+    },
+    {
+      "name": "Eleven Labs",
+      "position": "Web Developer",
+      "location_type": "",
+      "location": "Paris, France",
+      "url": "https://eleven-labs.com",
+      "startDate": "2015-01",
+      "endDate": "2017-04",
+      "responsibilities": [
+        "Consultant for Le Monde",
+        "Consultant for Maisons du Monde"
+      ],
+      "skills": {
+        "PHP": "simple-icons:php",
+        "Symfony": "simple-icons:symfony"
+      }
+    },
+    {
+      "name": "XM Developments",
+      "position": "Software Developer",
+      "location_type": "",
+      "location": "Paris, France",
+      "url": "https://xmdev.ca",
+      "startDate": "2014-09",
+      "endDate": "2014-10",
+      "responsibilities": [
+        "Development in Code Igniter backend and frontend for an Ecommerce platform",
+        "Restructuring of the platform's application layer"
+      ],
+      "skills": {
+        "PHP": "simple-icons:php",
+        "CodeIgniter": "simple-icons:codeigniter",
+        "MySQL": "simple-icons:mysql",
+        "Debian": "simple-icons:debian"
+      }
+    },
+    {
+      "name": "Gladeye",
+      "position": "Web Developer",
+      "location_type": "",
+      "location": "Paris, France",
+      "url": "https://gladeye.com",
+      "startDate": "2013-12",
+      "endDate": "2014-08",
+      "responsibilities": [
+        "Development in Laravel frontend and backend for event websites",
+        "Development in Code Igniter for a pharmaceutical catalog site",
+        "Development in Wordpress for a law firm showcase site"
+      ],
+      "skills": {
+        "PHP": "simple-icons:php",
+        "Laravel": "simple-icons:laravel",
+        "CodeIgniter": "simple-icons:codeigniter",
+        "WordPress": "simple-icons:wordpress",
+        "MySQL": "simple-icons:mysql"
+      }
+    },
+    {
+      "name": "Inter Action Consultants",
+      "position": "Web Developer",
+      "location_type": "",
+      "location": "Paris, France",
+      "url": "",
+      "startDate": "2013-04",
+      "endDate": "2013-11",
+      "responsibilities": [
+        "Development in Symfony 1.4 frontend and backend: Marketplace platform, internal HR tools platform"
+      ],
+      "skills": {
+        "PHP": "simple-icons:php",
+        "Symfony": "simple-icons:symfony",
+        "jQuery": "simple-icons:jquery",
+        "Twig": ""
+      }
+    },
+    {
+      "name": "Maisons du Monde",
+      "position": "Web Developer",
+      "location_type": "",
+      "location": "Paris, France",
+      "url": "https://www.maisonsdumonde.com",
+      "startDate": "2012-07",
+      "endDate": "2013-01",
+      "responsibilities": [
+        "Development in Symfony 1.4 frontend and backend: ecommerce catalog, payment tunnel, delivery, back office"
+      ],
+      "skills": {
+        "PHP": "simple-icons:php",
+        "Symfony": "simple-icons:symfony",
+        "PostgreSQL": "simple-icons:postgresql",
+        "jQuery": "simple-icons:jquery",
+        "Jira": "simple-icons:jira"
+      }
+    },
+    {
+      "name": "Theodo",
+      "position": "Web Developer",
+      "location_type": "",
+      "location": "Paris, France",
+      "url": "https://www.theodo.com",
+      "startDate": "2011-05",
+      "endDate": "2013-03",
+      "responsibilities": [
+        "Symfony consultant for Maisons du Monde",
+        "Development in Symfony 1.4 frontend and backend: ERP France System, alternative medicine Youcare, etc.",
+        "PHP development on AlloMatch"
+      ],
+      "skills": {
+        "PHP": "simple-icons:php",
+        "Symfony": "simple-icons:symfony",
+        "Behat": "",
+        "PhpUnit": "simple-icons:php",
+        "Python": "mdi:language-python",
+        "Bash": "simple-icons:gnubash",
+        "Jenkins": "simple-icons:jenkins",
+        "Vagrant": "simple-icons:vagrant"
+      }
+    },
+    {
+      "name": "Shiva Communication",
+      "position": "Web Developer",
+      "location_type": "",
+      "location": "Paris, France",
+      "url": "",
+      "startDate": "2009-11",
+      "endDate": "2011-03",
+      "responsibilities": [
+        "Development in Symfony 1.4 frontend and backend on Volkswagen group sites: Skoda website and back office, various event sites",
+        "PHP/HTML development for various event projects"
+      ],
+      "skills": {
+        "PHP": "simple-icons:php",
+        "Symfony": "simple-icons:symfony",
+        "MySQL": "simple-icons:mysql",
+        "jQuery": "simple-icons:jquery"
+      }
+    },
+    {
+      "name": "Fnac Direct",
+      "position": "Web Developer - Apprenticeship",
+      "location_type": "",
+      "location": "Paris, France",
+      "url": "https://www.fnac.com",
+      "startDate": "2008-09",
+      "endDate": "2009-09",
+      "responsibilities": [
+        "Development in Symfony 1.0 on Fnac Marketplace: import/export script on seller back office",
+        "Development on video game news sites: UI improvements, flash sales, data import/export scripts"
+      ],
+      "skills": {
+        "PHP": "simple-icons:php",
+        "Symfony": "simple-icons:symfony",
+        "Prototype JS": "",
+        "Apache": "simple-icons:apache"
+      }
+    },
+    {
+      "name": "Publicis Modem",
+      "position": "Technical Project Manager - Internship",
+      "location_type": "",
+      "location": "Paris, France",
+      "url": "https://www.publicisgroupe.com",
+      "startDate": "2008-06",
+      "endDate": "2008-09",
+      "responsibilities": [
+        "Project management: YoBigBattle (SFR): technical design, writing technical documentation and deliverables, production monitoring",
+        "Mailing and Newsletter"
+      ],
+      "skills": {
+        "PHP": "simple-icons:php",
+        "Drupal": "simple-icons:drupal"
+      }
+    },
+    {
+      "name": "Association Navajo France",
+      "position": "New Technologies Instructor - Internship",
+      "location_type": "",
+      "location": "Paris, France",
+      "url": "",
+      "startDate": "2007-07",
+      "endDate": "2007-09",
+      "responsibilities": [
+        "English training for American high school students",
+        "Software: Photoshop, Premiere",
+        "Web: Blog, RSS Feed"
+      ],
+      "skills": {
+        "Photoshop": "simple-icons:adobephotoshop",
+        "Premiere": "simple-icons:adobepremierepro"
       }
     }
   ],
